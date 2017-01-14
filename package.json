@@ -1,0 +1,28 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pix-el/demoapp.git"
+  },
+  "keywords": [],
+  "author": "Amin Shaikh <m.shaikh@elsevier.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pix-el/demoapp/issues"
+  },
+  "homepage": "https://github.com/pix-el/demoapp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.2",
+    "supertest": "^2.0.1"
+  }
+}
